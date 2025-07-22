@@ -10,7 +10,7 @@
         <mxCell id="IY5RS1loPKQpmdRNmgUw-2" value="inv:&amp;nbsp; exists l1 l2, l == app(rev(l1), l2) &amp;amp;&amp;amp; sll(w, l1) * sll(v, l2)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5ztmRmx8na6e_iPSnERG-1" value="post: sll(w, rev(l))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ztmRmx8na6e_iPSnERG-1" value="post: sll(w, rev(l)) * v == 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
