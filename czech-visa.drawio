@@ -11,27 +11,29 @@
           <mxGeometry height="60" width="120" x="140" y="150" as="geometry" />
         </mxCell>
         <mxCell id="LpwkwvuMJd0kwznsGUHe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="short-term research visit to Prague&lt;div&gt;using&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Austrian residence permit&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="294" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="293" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="LpwkwvuMJd0kwznsGUHe-7" edge="1" parent="1" source="LpwkwvuMJd0kwznsGUHe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LpwkwvuMJd0kwznsGUHe-6">
+        <mxCell id="LpwkwvuMJd0kwznsGUHe-7" edge="1" parent="1" source="g3vp-XDgX7XY7Ml9nqzI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LpwkwvuMJd0kwznsGUHe-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="490" as="targetPoint" />
+            <mxPoint x="260" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LpwkwvuMJd0kwznsGUHe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="notice rules when updating address at prague" vertex="1">
-          <mxGeometry height="60" width="120" x="294" y="350" as="geometry" />
+        <mxCell id="g3vp-XDgX7XY7Ml9nqzI-2" edge="1" parent="1" source="LpwkwvuMJd0kwznsGUHe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="g3vp-XDgX7XY7Ml9nqzI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpwkwvuMJd0kwznsGUHe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="notice rules when updating home address at prague" vertex="1">
+          <mxGeometry height="60" width="120" x="293" y="310" as="geometry" />
         </mxCell>
         <mxCell id="LpwkwvuMJd0kwznsGUHe-5" edge="1" parent="1" source="LpwkwvuMJd0kwznsGUHe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LpwkwvuMJd0kwznsGUHe-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LpwkwvuMJd0kwznsGUHe-9" edge="1" parent="1" source="LpwkwvuMJd0kwznsGUHe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LpwkwvuMJd0kwznsGUHe-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LpwkwvuMJd0kwznsGUHe-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="return to Austria&lt;div&gt;continue Phd and successfully extend my Austrian residence permit&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="140" y="505" as="geometry" />
         </mxCell>
-        <mxCell id="LpwkwvuMJd0kwznsGUHe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="return to Austria" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="LpwkwvuMJd0kwznsGUHe-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="continue Phd and successfully extend my Austrian residence permit" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="540" as="geometry" />
+        <mxCell id="g3vp-XDgX7XY7Ml9nqzI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ask me to leave after&lt;div&gt;understand the situation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="293" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
