@@ -10,7 +10,7 @@
         <mxCell id="LpwkwvuMJd0kwznsGUHe-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="PhD student at Austria with Austrian residence permit" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="LpwkwvuMJd0kwznsGUHe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;short-term research visit to Prague using&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Austrian residence permit&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;s&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="LpwkwvuMJd0kwznsGUHe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;short-term research visit to Prague using my&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Austrian residence permit&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;original plan for one and a half year&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="70" width="350" x="178" y="210" as="geometry" />
         </mxCell>
         <mxCell id="LpwkwvuMJd0kwznsGUHe-7" edge="1" parent="1" source="g3vp-XDgX7XY7Ml9nqzI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="g3vp-XDgX7XY7Ml9nqzI-4">
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LpwkwvuMJd0kwznsGUHe-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="notice should return eariler&lt;div&gt;&amp;nbsp;when updating home address at prague&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="293" y="310" as="geometry" />
+          <mxGeometry height="60" width="320" x="193" y="310" as="geometry" />
         </mxCell>
         <mxCell id="LpwkwvuMJd0kwznsGUHe-5" edge="1" parent="1" source="LpwkwvuMJd0kwznsGUHe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LpwkwvuMJd0kwznsGUHe-4">
           <mxGeometry relative="1" as="geometry" />
