@@ -9,6 +9,11 @@
             <mxPoint x="1468" y="829" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9hWO-3KRuZt5ECt9ck0p-31" connectable="0" parent="9hWO-3KRuZt5ECt9ck0p-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="LLM" vertex="1">
+          <mxGeometry relative="1" x="-0.0224" y="3" as="geometry">
+            <mxPoint x="25" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9hWO-3KRuZt5ECt9ck0p-4" edge="1" parent="1" source="9hWO-3KRuZt5ECt9ck0p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9hWO-3KRuZt5ECt9ck0p-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -66,8 +71,8 @@
         <mxCell id="9hWO-3KRuZt5ECt9ck0p-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="QCP Specification&lt;div&gt;with additionaly predicates loaded&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="140" x="1728" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="9hWO-3KRuZt5ECt9ck0p-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Refine" vertex="1">
-          <mxGeometry height="60" width="140" x="1928" y="890" as="geometry" />
+        <mxCell id="9hWO-3KRuZt5ECt9ck0p-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Compilation Error Free" vertex="1">
+          <mxGeometry height="60" width="140" x="1918" y="890" as="geometry" />
         </mxCell>
         <mxCell id="9hWO-3KRuZt5ECt9ck0p-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Compilation Error Free QCP Specification" vertex="1">
           <mxGeometry height="60" width="140" x="2088" y="890" as="geometry" />
