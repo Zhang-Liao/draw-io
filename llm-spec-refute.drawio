@@ -28,7 +28,7 @@
         <mxCell id="011XbBph7ybZxoPz1RMD-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LLM" vertex="1">
           <mxGeometry height="20" width="140" x="80" y="262" as="geometry" />
         </mxCell>
-        <mxCell id="06Pv0kiEgUZWLVhrRCnp-2" edge="1" parent="1" source="011XbBph7ybZxoPz1RMD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="06Pv0kiEgUZWLVhrRCnp-1">
+        <mxCell id="bMZhtwtP_KA5VMmg4OED-12" edge="1" parent="1" source="011XbBph7ybZxoPz1RMD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bMZhtwtP_KA5VMmg4OED-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="011XbBph7ybZxoPz1RMD-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LLM" vertex="1">
@@ -42,16 +42,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="06Pv0kiEgUZWLVhrRCnp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Refuted Coq Test Cases" vertex="1">
-          <mxGeometry height="30" width="140" x="160" y="466" as="geometry" />
+        <mxCell id="06Pv0kiEgUZWLVhrRCnp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Refuted Coq Test Cases" vertex="1">
+          <mxGeometry height="30" width="140" x="160" y="547" as="geometry" />
         </mxCell>
         <mxCell id="06Pv0kiEgUZWLVhrRCnp-3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" value="Incorrect Specification" vertex="1">
-          <mxGeometry height="40" width="120" x="170" y="546" as="geometry" />
+          <mxGeometry height="40" width="120" x="170" y="628" as="geometry" />
         </mxCell>
         <mxCell id="bMZhtwtP_KA5VMmg4OED-7" edge="1" parent="1" source="bMZhtwtP_KA5VMmg4OED-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="011XbBph7ybZxoPz1RMD-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bMZhtwtP_KA5VMmg4OED-9" edge="1" parent="1" source="bMZhtwtP_KA5VMmg4OED-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="011XbBph7ybZxoPz1RMD-27">
+        <mxCell id="bMZhtwtP_KA5VMmg4OED-9" edge="1" parent="1" source="bMZhtwtP_KA5VMmg4OED-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="011XbBph7ybZxoPz1RMD-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bMZhtwtP_KA5VMmg4OED-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Judge Format by Python programs" vertex="1">
@@ -61,7 +61,16 @@
           <mxGeometry height="25" width="25" x="119" y="399" as="geometry" />
         </mxCell>
         <mxCell id="bMZhtwtP_KA5VMmg4OED-10" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF3333;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="20" width="20" x="36" y="282" as="geometry" />
+          <mxGeometry height="20" width="20" x="34" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="bMZhtwtP_KA5VMmg4OED-13" edge="1" parent="1" source="bMZhtwtP_KA5VMmg4OED-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="06Pv0kiEgUZWLVhrRCnp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMZhtwtP_KA5VMmg4OED-16" edge="1" parent="1" source="bMZhtwtP_KA5VMmg4OED-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="011XbBph7ybZxoPz1RMD-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMZhtwtP_KA5VMmg4OED-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Judge Format by Python programs" vertex="1">
+          <mxGeometry height="40" width="140" x="160" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
