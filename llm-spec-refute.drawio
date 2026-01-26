@@ -70,7 +70,7 @@
           <mxGeometry height="20" width="210" x="45" y="350" as="geometry" />
         </mxCell>
         <mxCell id="bMZhtwtP_KA5VMmg4OED-10" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF3333;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="18" width="18" x="38" y="312" as="geometry" />
+          <mxGeometry height="18" width="18" x="33" y="312" as="geometry" />
         </mxCell>
         <mxCell id="bMZhtwtP_KA5VMmg4OED-13" edge="1" parent="1" source="bMZhtwtP_KA5VMmg4OED-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="06Pv0kiEgUZWLVhrRCnp-1">
           <mxGeometry relative="1" as="geometry" />
