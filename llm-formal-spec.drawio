@@ -113,6 +113,9 @@
         <mxCell id="9hWO-3KRuZt5ECt9ck0p-55" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF3333;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="1568" y="840" as="geometry" />
         </mxCell>
+        <mxCell id="PmjYTcU1vdNOc2OIr41H-5" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Refine by LLM" vertex="1">
+          <mxGeometry x="1628" y="852" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
